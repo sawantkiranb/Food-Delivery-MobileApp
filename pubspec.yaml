@@ -54,6 +54,11 @@ flutter:
     - assets/images/charlie.jpg
     - assets/images/munch.jpg
     - assets/images/pita.jpg
+    - assets/images/freki.jpg
+    - assets/images/mini.jpg
+    - assets/images/wrap.jpg
+    - assets/images/shawarma.jpg
+    - assets/images/meat.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
